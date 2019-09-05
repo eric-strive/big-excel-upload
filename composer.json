@@ -1,11 +1,10 @@
 {
   "name": "eric-strive/big-excel-upload",
-  "description": "This is a test package,form yancoo.cn,author is eric.",
+  "description": "This is a test package,form author is eric.",
   "type": "library",
   "require": {
     "php": ">=7.1.0",
     "phpoffice/phpspreadsheet": "^1.5",
-    "eric-strive/composer_test": "dev-master"
   },
   "license": "MIT",
   "authors": [
