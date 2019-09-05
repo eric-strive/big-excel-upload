@@ -1,0 +1,22 @@
+{
+  "name": "eric-strive/composer_test",
+  "description": "This is a test package,form yancoo.cn,author is eric.",
+  "type": "library",
+  "require": {
+    "php": ">=7.1.0",
+    "phpoffice/phpspreadsheet": "^1.5"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "汪威",
+      "email": "eric_strive@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "bigExcelUpload\\": "src/"
+    }
+  }
+}

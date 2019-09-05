@@ -1,3 +1,11 @@
+# 大文件数据分割读取
+
+- PHP 5.6+
+```bash
+php composer.phar require --prefer-dist eric-strive/bigExcelUpload "*"
+```
+
+
 ## 大文件数据分割读取
 $excelCutModel = new \excelUpload\ExcelCutRead($localFilePath,
             [
