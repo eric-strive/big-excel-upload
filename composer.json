@@ -4,7 +4,7 @@
   "type": "library",
   "require": {
     "php": ">=7.1.0",
-    "phpoffice/phpspreadsheet": "^1.5",
+    "phpoffice/phpspreadsheet": "^1.5"
   },
   "license": "MIT",
   "authors": [
