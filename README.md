@@ -2,7 +2,7 @@
 
 - PHP 5.6+
 ```bash
-php composer.phar require --prefer-dist eric-strive/bigExcelUpload "*"
+php composer.phar require --prefer-dist eric-strive/big-excel-upload "*"
 ```
 
 
